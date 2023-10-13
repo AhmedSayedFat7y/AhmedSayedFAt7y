@@ -6,7 +6,7 @@ I am junior Data Scientist with background in data analysis, statistics , Python
 Machine Learning seeking opportunities for career growth and continuous learning in the field.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/streamlitio/images/abda5a6f-0d62-4d24-a16d-f7132016b2ff.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -21,7 +21,7 @@ Machine Learning seeking opportunities for career growth and continuous learning
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-**📫 Reach me at:**<br>
+<h3 align="left">Reach me at:</h3>
 
 <a href="https://www.linkedin.com/in/ahmed-sayed-744438227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-sayed-744438227/" height="30" width="40" /></a>
 </p>
