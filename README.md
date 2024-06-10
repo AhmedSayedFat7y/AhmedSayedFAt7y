@@ -2,8 +2,7 @@
 
 
 <p align="left">
-I am junior Data Scientist with background in data analysis, statistics , Python, SQL, PowerBi , Exel,and 
-Machine Learning seeking opportunities for career growth and continuous learning in the field.
+Passionate Junior Data Analyst eager to apply analytical skills in Python and SQL. Excited to    contribute to data-driven projects, learn continuously, and grow in a dynamic team environment.
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
