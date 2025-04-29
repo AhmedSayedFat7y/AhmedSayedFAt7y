@@ -2,7 +2,11 @@
 
 
 <p align="left">
-Passionate Junior Data Analyst eager to apply analytical skills in Python and SQL. Excited to    contribute to data-driven projects, learn continuously, and grow in a dynamic team environment.
+I’m a results-driven data analyst with proven experience transforming raw data into actionable insights to support strategic decision-making. I’ve worked across diverse markets including the UAE, KSA, and India, supporting brands like Moddakir, Raha, Ekar, 6th Street, The Urban Company, and MasheedGate.
+
+Specialized in CRM analytics, campaign performance, and marketing data automation, I use tools like SQL, Python, Google Sheets, Looker Studio, and Power BI to deliver clear, impactful reports and dashboards. My goal is to empower stakeholders with accurate insights that help them make confident, data-backed decisions.
+
+Always seeking to improve processes and uncover opportunities through data.
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
